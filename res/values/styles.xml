@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<style name="WindowTitleBackground1" parent="android:WindowTitleBackground">
+		<item name="android:background">#61788f</item>
+	</style>
+	<style name="customText">
+		<item name="android:typeface">sans</item>
+		<item name="android:textSize">7pt</item>
+		<item name="android:textColor">#222222</item>
+	</style>
+</resources>

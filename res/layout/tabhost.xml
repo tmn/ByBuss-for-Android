@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/tabhost"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	
+	<LinearLayout android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+		<TabWidget android:id="@android:id/tabs"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" />
+			
+		<FrameLayout android:id="@android:id/tabcontent"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:background="@drawable/bybussbg">
+		
+	
+	
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/tab1"
+
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5px">
+    
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:id="@+id/main_table"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:stretchColumns="0">
+    	
+    	<TableRow>
+	    	<EditText
+			android:id="@+id/entry"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:gravity="left"
+			android:singleLine="true"
+			android:textSize="8pt"
+			android:text="@string/search_field" />
+		
+			<Button
+			android:id="@+id/send"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignTop="@id/entry"
+			android:text="Send"/>
+    	
+    	</TableRow>
+    </TableLayout>
+    
+<!--    <TextView -->
+<!--    android:id="@+id/answer"-->
+<!--    android:layout_width="fill_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:layout_below="@id/main_table"-->
+<!--    android:layout_marginTop="5px"-->
+<!--    android:layout_marginLeft="10px"-->
+<!--    android:layout_marginRight="10px"-->
+<!--    android:text="@string/answer_field"-->
+<!--    style="@style/customText" />-->
+    
+    <ScrollView android:layout_below="@id/main_table"
+   		android:id="@+id/mainScroll"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent">
+    	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:id="@+id/mainScrollContent"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent">
+    		<TextView 
+		    android:id="@+id/answer"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@id/main_table"
+		    android:layout_marginTop="5px"
+		    android:layout_marginLeft="10px"
+		    android:layout_marginRight="10px"
+		    android:text="@string/answer_field"
+		    style="@style/customText" />
+    	</LinearLayout>
+    </ScrollView>
+	
+</RelativeLayout>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/tab2"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <ListView android:id="@+id/history_list"
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		style="@style/customText"
+		android:drawSelectorOnTop="true" />
+		
+	<!--
+	<TextView android:id="@+id/randomtext"
+		android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="@string/tab2_name"
+    	style="@style/customText" />
+    -->
+</RelativeLayout>
+
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--	android:id="@+id/tab3"-->
+<!--	android:screenOrientation="nosensor"-->
+<!--    android:layout_width="fill_parent"-->
+<!--    android:layout_height="fill_parent"-->
+<!--    android:padding="10px">-->
+<!--    -->
+<!--     -->
+<!--	<ListView android:id="@+id/fav_list"-->
+<!--		android:orientation="vertical"-->
+<!--		android:layout_width="fill_parent"-->
+<!--		android:layout_height="fill_parent"-->
+<!--		android:padding="5px"-->
+<!--		android:textSize="12sp" />-->
+<!--	-->
+<!--	-->
+<!--	<TextView android:id="@+id/randomtext"-->
+<!--		android:layout_width="fill_parent"-->
+<!--    	android:layout_height="wrap_content"-->
+<!--    	android:text="@string/tab3_name"-->
+<!--    	style="@style/customText" />-->
+<!---->
+<!--</RelativeLayout>-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/tab4"
+	android:screenOrientation="nosensor"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <com.google.android.maps.MapView
+    android:id="@+id/mapView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:apiKey="0YLuDoZwnAwuaOMAwGtiKXuiQF-TynSSEb9VnVA"
+	/>
+<!-- signed		android:apiKey="0YLuDoZwnAwuaOMAwGtiKXuiQF-TynSSEb9VnVA"-->
+<!-- unsigned	android:apiKey="0YLuDoZwnAwuBcVfFPr2NUphKi4oEetuuKHjSUQ"-->
+    
+</RelativeLayout>
+	
+	
+	
+			
+		</FrameLayout>
+	
+	</LinearLayout>
+
+</TabHost>

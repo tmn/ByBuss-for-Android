@@ -1,0 +1,1286 @@
+<?xml version='1.0' standalone='no'?>
+<osm version='0.6' generator='xapi: OSM Extended API 2.0' attribution='http://wiki.openstreetmap.org/wiki/Attribution' xmlns:xapi='http://www.informationfreeway.org/xapi/0.6' xapi:uri='/api/0.6/node[highway=bus_stop][bbox=10.2962,63.4022,10.539,63.453]' xapi:planetDate='20101223' xapi:copyright='2010 OpenStreetMap contributors' xapi:license='Creative commons CC-BY-SA 2.0' xapi:bugs='For assistance or to report bugs contact 80n80n@gmail.com' xapi:instance='zappyOsm'>
+  <node id='247241293' lat='63.4522660' lon='10.3046003' user='Helge Hafting' timestamp='2008-02-11T18:22:05Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Trollahaugen 64'/>
+  </node>
+  <node id='247241300' lat='63.4519615' lon='10.3025472' user='Helge Hafting' timestamp='2008-02-11T18:22:06Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Trollahaugen 46'/>
+  </node>
+  <node id='247241301' lat='63.4512819' lon='10.3004866' user='Helge Hafting' timestamp='2008-02-11T18:22:06Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Trollahaugen 10'/>
+  </node>
+  <node id='247241303' lat='63.4501758' lon='10.3010307' user='Helge Hafting' timestamp='2008-02-11T18:22:06Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Trollahaugen 2'/>
+  </node>
+  <node id='247241304' lat='63.4498258' lon='10.3041273' user='Helge Hafting' timestamp='2008-02-11T18:22:06Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brukseier Olsens vei 50'/>
+  </node>
+  <node id='247241292' lat='63.4505120' lon='10.3088105' user='Helge Hafting' timestamp='2008-02-11T18:22:04Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gogstadbakken'/>
+  </node>
+  <node id='247241306' lat='63.4504905' lon='10.3052276' user='Helge Hafting' timestamp='2008-02-11T18:22:06Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brukseier Olsens vei 40'/>
+  </node>
+  <node id='247241310' lat='63.4503745' lon='10.3088392' user='Helge Hafting' timestamp='2008-02-11T18:22:07Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gogstadbakken'/>
+  </node>
+  <node id='247241312' lat='63.4504217' lon='10.3148378' user='Helge Hafting' timestamp='2008-02-11T21:22:22Z' uid='19565' version='2' changeset='100353'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brukseier Olsens vei 2'/>
+  </node>
+  <node id='247241287' lat='63.4468750' lon='10.3262695' user='Helge Hafting' timestamp='2008-02-11T18:22:04Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brænne'/>
+  </node>
+  <node id='247241289' lat='63.4490920' lon='10.3208947' user='Helge Hafting' timestamp='2008-02-11T18:22:04Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Munkaunet'/>
+  </node>
+  <node id='247241321' lat='63.4491673' lon='10.3192263' user='Helge Hafting' timestamp='2008-02-11T21:37:47Z' uid='19565' version='2' changeset='100353'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Munkaunet'/>
+  </node>
+  <node id='247241286' lat='63.4461376' lon='10.3355465' user='Helge Hafting' timestamp='2008-02-11T18:22:04Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Høvringen'/>
+  </node>
+  <node id='247241285' lat='63.4385317' lon='10.3484222' user='Helge Hafting' timestamp='2008-02-11T18:22:04Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Fagervika'/>
+  </node>
+  <node id='247241322' lat='63.4402606' lon='10.3472999' user='Helge Hafting' timestamp='2008-02-11T18:22:08Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Biologen'/>
+  </node>
+  <node id='247241324' lat='63.4353913' lon='10.3487682' user='Helge Hafting' timestamp='2008-02-11T18:22:08Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Killingdal'/>
+  </node>
+  <node id='247241278' lat='63.4357611' lon='10.3491307' user='Helge Hafting' timestamp='2008-02-11T18:22:03Z' uid='19565' version='1' changeset='99583'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Killingdal'/>
+  </node>
+  <node id='539110839' lat='63.4166713' lon='10.3136957' user='Klenje' timestamp='2009-10-23T19:24:58Z' uid='129060' version='1' changeset='2932220'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='1000566573' lat='63.4313875' lon='10.3583005' user='adrinaas' timestamp='2010-11-23T07:14:18Z' uid='374238' version='1' changeset='6437121'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ilsvika'/>
+  </node>
+  <node id='1000571686' lat='63.4299286' lon='10.3577317' user='adrinaas' timestamp='2010-11-23T07:21:31Z' uid='374238' version='2' changeset='6437165'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bynesveien 7'/>
+  </node>
+  <node id='1000571871' lat='63.4300438' lon='10.3573992' user='adrinaas' timestamp='2010-11-23T07:19:36Z' uid='374238' version='1' changeset='6437121'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bynesveien 16'/>
+  </node>
+  <node id='646955733' lat='63.4294278' lon='10.3677543' user='torfredr' timestamp='2010-02-19T17:52:04Z' uid='235305' version='1' changeset='3917350'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ila'/>
+  </node>
+  <node id='646955735' lat='63.4293222' lon='10.3682049' user='torfredr' timestamp='2010-02-19T17:52:05Z' uid='235305' version='1' changeset='3917350'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ila'/>
+  </node>
+  <node id='760735609' lat='63.4286438' lon='10.3709478' user='Lasse Karstensen' timestamp='2010-05-31T21:41:56Z' uid='139181' version='1' changeset='4868843'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='1000576932' lat='63.4294274' lon='10.3652238' user='adrinaas' timestamp='2010-11-23T07:24:09Z' uid='374238' version='1' changeset='6437165'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Hanskemakerbakken'/>
+  </node>
+  <node id='1000577556' lat='63.429269' lon='10.3656637' user='adrinaas' timestamp='2010-11-23T07:24:39Z' uid='374238' version='1' changeset='6437165'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Hanskemakerbaken'/>
+  </node>
+  <node id='244973830' lat='63.4238224' lon='10.3572070' user='anchr' timestamp='2008-02-02T15:05:36Z' uid='1296' version='1' changeset='13281'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Hammersborg'/>
+  </node>
+  <node id='109867573' lat='63.4198779' lon='10.3708462' user='anchr' timestamp='2008-01-28T19:39:22Z' uid='1296' version='4' changeset='704095'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='259568316' lat='63.4235889' lon='10.3663791' user='steinarh' timestamp='2008-04-23T23:36:34Z' uid='17110' version='1' changeset='241186'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Hjalmar Andersens Vei'/>
+  </node>
+  <node id='259568317' lat='63.4218678' lon='10.3688037' user='steinarh' timestamp='2008-04-23T23:36:34Z' uid='17110' version='1' changeset='241186'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Wistings vei'/>
+  </node>
+  <node id='243081386' lat='63.4179195' lon='10.3537882' user='anchr' timestamp='2008-02-02T17:36:14Z' uid='1296' version='2' changeset='15389'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Wullumsgården'/>
+  </node>
+  <node id='243081387' lat='63.4173952' lon='10.3547072' user='Gustav Foseid' timestamp='2009-09-26T09:32:18Z' uid='36641' version='2' changeset='2636281'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gamle Oslovei'/>
+  </node>
+  <node id='243081460' lat='63.4156780' lon='10.3624753' user='Gustav Foseid' timestamp='2009-09-26T09:32:17Z' uid='36641' version='3' changeset='2636281'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Framveien'/>
+  </node>
+  <node id='249230049' lat='63.4078166' lon='10.3597567' user='ok67' timestamp='2008-03-28T21:05:58Z' uid='2853' version='3' changeset='412466'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Havstadsenteret'/>
+  </node>
+  <node id='249228740' lat='63.4112768' lon='10.3613659' user='ok67' timestamp='2008-03-28T21:05:58Z' uid='2853' version='4' changeset='412466'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Johan Falkbergets vei'/>
+  </node>
+  <node id='249230097' lat='63.4046355' lon='10.3586084' user='ok67' timestamp='2008-03-28T21:05:58Z' uid='2853' version='4' changeset='412466'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Stabellsveg'/>
+  </node>
+  <node id='540108762' lat='63.4405947' lon='10.4032398' user='csaetre' timestamp='2009-10-25T11:16:07Z' uid='145062' version='1' changeset='2945086'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Pirsenter (2,46)'/>
+  </node>
+  <node id='530896369' lat='63.4361744' lon='10.4009306' user='Bernt' timestamp='2010-12-10T22:38:55Z' uid='11797' version='2' changeset='6611823'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Airport Express Coach'/>
+    <tag k='webpage' v='http://www.flybussen.no/'/>
+  </node>
+  <node id='566176924' lat='63.4397531' lon='10.4015056' user='tmn' timestamp='2009-11-17T13:10:01Z' uid='147210' version='1' changeset='3140895'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='540108768' lat='63.4404244' lon='10.4049557' user='Bernt' timestamp='2010-11-25T22:33:21Z' uid='11797' version='2' changeset='6458341'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Buss (2,46)'/>
+  </node>
+  <node id='250742854' lat='63.4463542' lon='10.4424345' user='Helge Hafting' timestamp='2008-03-05T19:14:00Z' uid='19565' version='1' changeset='272099'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ingemann Torps vei'/>
+  </node>
+  <node id='635336426' lat='63.4497096' lon='10.4443846' user='tmn' timestamp='2010-02-10T21:43:55Z' uid='147210' version='1' changeset='3843959'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='route_ref' v='3;4'/>
+  </node>
+  <node id='635337308' lat='63.4473021' lon='10.4398892' user='tmn' timestamp='2010-02-10T21:44:43Z' uid='147210' version='1' changeset='3843959'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='route_ref' v='3;'/>
+  </node>
+  <node id='527347003' lat='63.4494816' lon='10.4565726' user='tmn' timestamp='2010-02-10T21:44:59Z' uid='147210' version='2' changeset='3843959'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ringve Museum'/>
+    <tag k='route_ref' v='3;4'/>
+  </node>
+  <node id='635323047' lat='63.4498398' lon='10.4488384' user='tmn' timestamp='2010-02-10T21:35:27Z' uid='147210' version='1' changeset='3843886'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Østmarkveien'/>
+    <tag k='route_ref' v='3;4'/>
+  </node>
+  <node id='250742852' lat='63.4441017' lon='10.4365159' user='Helge Hafting' timestamp='2008-03-05T19:14:00Z' uid='19565' version='1' changeset='272099'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ladeveien'/>
+  </node>
+  <node id='242099939' lat='63.4351247' lon='10.4160405' user='Helge Hafting' timestamp='2008-02-21T18:35:00Z' uid='19565' version='2' changeset='174218'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Graaemølna'/>
+  </node>
+  <node id='242099942' lat='63.4359690' lon='10.4196617' user='Helge Hafting' timestamp='2008-01-22T18:57:36Z' uid='19565' version='1' changeset='681662'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Strandveien'/>
+  </node>
+  <node id='242099945' lat='63.4363179' lon='10.4246997' user='Helge Hafting' timestamp='2008-02-19T18:02:19Z' uid='19565' version='2' changeset='155587'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Buran'/>
+  </node>
+  <node id='248316134' lat='63.4363645' lon='10.4227652' user='Helge Hafting' timestamp='2008-02-19T09:03:40Z' uid='19565' version='1' changeset='154996'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Strandveien'/>
+  </node>
+  <node id='248316137' lat='63.4367654' lon='10.4170832' user='Helge Hafting' timestamp='2008-02-20T09:42:14Z' uid='19565' version='2' changeset='163058'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Nidelv bru'/>
+  </node>
+  <node id='242099948' lat='63.4367060' lon='10.4324537' user='Helge Hafting' timestamp='2008-01-22T18:57:36Z' uid='19565' version='1' changeset='681662'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Rosendal'/>
+  </node>
+  <node id='242099951' lat='63.4369890' lon='10.4368132' user='Helge Hafting' timestamp='2008-01-22T18:57:36Z' uid='19565' version='1' changeset='681662'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Rønningsbakken'/>
+  </node>
+  <node id='248316133' lat='63.4368097' lon='10.4304279' user='Helge Hafting' timestamp='2008-02-19T09:03:40Z' uid='19565' version='1' changeset='154996'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Rosendal'/>
+  </node>
+  <node id='248512383' lat='63.4365847' lon='10.4263417' user='Helge Hafting' timestamp='2008-03-27T09:02:21Z' uid='19565' version='3' changeset='405707'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Buran'/>
+  </node>
+  <node id='255057172' lat='63.4371855' lon='10.4369123' user='skela' timestamp='2010-08-29T20:52:45Z' uid='93285' version='2' changeset='5630855'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='lit' v='yes'/>
+    <tag k='name' v='Rønningsbakken'/>
+    <tag k='shelter' v='yes'/>
+  </node>
+  <node id='890628670' lat='63.4437816' lon='10.4442389' user='skela' timestamp='2010-09-02T16:10:31Z' uid='93285' version='2' changeset='5663463'>
+    <tag k='addr:city' v='Trondheim'/>
+    <tag k='addr:country' v='NO'/>
+    <tag k='addr:street' v='Håkon Magnussons gate'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='shelter' v='yes'/>
+    <tag k='source' v='extrapolation'/>
+  </node>
+  <node id='252619611' lat='63.4425048' lon='10.4543406' user='Helge Hafting' timestamp='2008-07-17T00:03:59Z' uid='19565' version='2' changeset='518678'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Haakon VII&apos;s gate'/>
+  </node>
+  <node id='242099954' lat='63.4377664' lon='10.4425140' user='Helge Hafting' timestamp='2008-02-21T18:35:01Z' uid='19565' version='2' changeset='174218'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Saxenborg allé'/>
+  </node>
+  <node id='248512382' lat='63.4379283' lon='10.4425522' user='Helge Hafting' timestamp='2009-04-30T08:40:41Z' uid='19565' version='3' changeset='1023768'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Saxenborg allé'/>
+  </node>
+  <node id='175499349' lat='63.4375258' lon='10.4482778' user='Helge Hafting' timestamp='2008-03-27T08:42:50Z' uid='19565' version='3' changeset='405707'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Dalen Hageby'/>
+  </node>
+  <node id='242099958' lat='63.4372343' lon='10.4496808' user='Helge Hafting' timestamp='2008-01-22T18:57:37Z' uid='19565' version='1' changeset='681662'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Dalen Hageby'/>
+  </node>
+  <node id='242099960' lat='63.4352682' lon='10.4558255' user='Helge Hafting' timestamp='2008-03-05T10:29:31Z' uid='19565' version='2' changeset='269635'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Strindheim'/>
+  </node>
+  <node id='248316129' lat='63.4355661' lon='10.4558416' user='Helge Hafting' timestamp='2008-02-20T09:42:14Z' uid='19565' version='2' changeset='163058'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Strindheim'/>
+  </node>
+  <node id='254261265' lat='63.4358477' lon='10.4548238' user='skela' timestamp='2010-09-03T20:55:26Z' uid='93285' version='3' changeset='5674167'>
+    <tag k='addr:city' v='Trondheim'/>
+    <tag k='addr:country' v='NO'/>
+    <tag k='addr:street' v='Innherredsveien'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='shelter' v='yes'/>
+    <tag k='source' v='survey'/>
+  </node>
+  <node id='255057125' lat='63.4356118' lon='10.4578792' user='Helge Hafting' timestamp='2008-03-31T10:39:42Z' uid='19565' version='1' changeset='433060'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brannstasjon øst'/>
+  </node>
+  <node id='244968160' lat='63.4298268' lon='10.3718508' user='anchr' timestamp='2008-02-02T14:53:15Z' uid='1296' version='1' changeset='13281'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='646955732' lat='63.4302148' lon='10.3737624' user='torfredr' timestamp='2010-02-19T17:52:04Z' uid='235305' version='1' changeset='3917350'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Skansen'/>
+  </node>
+  <node id='646955734' lat='63.4297973' lon='10.3721102' user='torfredr' timestamp='2010-02-19T17:52:04Z' uid='235305' version='1' changeset='3917350'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Skansen'/>
+  </node>
+  <node id='646955737' lat='63.4303972' lon='10.3782256' user='torfredr' timestamp='2010-02-19T17:52:06Z' uid='235305' version='1' changeset='3917350'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Kalvskinnet'/>
+  </node>
+  <node id='248316138' lat='63.4320383' lon='10.3923184' user='tmn' timestamp='2010-12-09T19:36:31Z' uid='147210' version='3' changeset='6598488'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='D1'/>
+    <tag k='route_ref' v='8;10;11;43;63;67'/>
+  </node>
+  <node id='248455865' lat='63.4319004' lon='10.3927642' user='tibnor' timestamp='2010-04-13T18:24:42Z' uid='88857' version='3' changeset='4416340'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='D3'/>
+    <tag k='route_ref' v='5;8'/>
+  </node>
+  <node id='530888260' lat='63.4310379' lon='10.3922964' user='torfredr' timestamp='2010-02-19T17:52:05Z' uid='235305' version='3' changeset='3917350'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Prinsenkrysset'/>
+  </node>
+  <node id='646955731' lat='63.4304092' lon='10.3845798' user='torfredr' timestamp='2010-02-19T17:52:04Z' uid='235305' version='1' changeset='3917350'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Hospitals Kirka'/>
+  </node>
+  <node id='646955736' lat='63.4307979' lon='10.3920631' user='torfredr' timestamp='2010-02-19T17:52:05Z' uid='235305' version='1' changeset='3917350'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Prinsenkrysset'/>
+  </node>
+  <node id='243788469' lat='63.4242624' lon='10.3712120' user='steinarh' timestamp='2008-01-28T00:25:41Z' uid='17110' version='1' changeset='703146'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Nyveibakken'/>
+  </node>
+  <node id='248455861' lat='63.4329258' lon='10.3939362' user='tibnor' timestamp='2010-04-13T18:24:43Z' uid='88857' version='2' changeset='4416340'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='M5'/>
+    <tag k='route_ref' v='3;4;6;7;9;11'/>
+  </node>
+  <node id='248455862' lat='63.4324881' lon='10.3941364' user='tibnor' timestamp='2010-04-13T18:24:43Z' uid='88857' version='3' changeset='4416340'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='M4'/>
+    <tag k='route_ref' v='nettbuss;2;36;46;54'/>
+  </node>
+  <node id='248455863' lat='63.4317231' lon='10.394229' user='tibnor' timestamp='2010-04-13T18:24:42Z' uid='88857' version='2' changeset='4416340'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='M3'/>
+    <tag k='route_ref' v='52;60;63;66'/>
+  </node>
+  <node id='248455864' lat='63.4319015' lon='10.3939366' user='tmn' timestamp='2010-12-09T19:36:32Z' uid='147210' version='3' changeset='6598488'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='D4'/>
+    <tag k='route_ref' v='19;20'/>
+  </node>
+  <node id='248455866' lat='63.4320229' lon='10.3934739' user='tibnor' timestamp='2010-04-13T18:24:42Z' uid='88857' version='2' changeset='4416340'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='D2'/>
+    <tag k='route_ref' v='5'/>
+  </node>
+  <node id='248455868' lat='63.4321918' lon='10.3939670' user='Helge Hafting' timestamp='2008-02-19T18:02:18Z' uid='19565' version='1' changeset='155587'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='M2'/>
+  </node>
+  <node id='248455870' lat='63.432595' lon='10.3937127' user='tibnor' timestamp='2010-04-13T18:24:43Z' uid='88857' version='2' changeset='4416340'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='M1'/>
+    <tag k='route_ref' v='2;44;46;47;54;55;71;71;75;76'/>
+  </node>
+  <node id='248455871' lat='63.4337910' lon='10.4004900' user='Helge Hafting' timestamp='2008-02-19T18:02:19Z' uid='19565' version='1' changeset='155587'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='248455872' lat='63.4337841' lon='10.4002511' user='Helge Hafting' timestamp='2008-02-19T18:02:19Z' uid='19565' version='1' changeset='155587'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='248695530' lat='63.4332832' lon='10.4013277' user='Bernt' timestamp='2010-12-08T00:14:32Z' uid='11797' version='5' changeset='6581356'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Nova Kinosenter'/>
+  </node>
+  <node id='344731018' lat='63.4304773' lon='10.3934123' user='torfredr' timestamp='2010-02-19T17:52:05Z' uid='235305' version='3' changeset='3917350'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Torget'/>
+  </node>
+  <node id='530887741' lat='63.4306462' lon='10.3931112' user='tmn' timestamp='2009-11-17T12:59:02Z' uid='147210' version='2' changeset='3140771'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Torget'/>
+  </node>
+  <node id='566173983' lat='63.4333948' lon='10.401823' user='tmn' timestamp='2010-02-07T23:12:13Z' uid='147210' version='2' changeset='3819970'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Nova Kinosenter'/>
+  </node>
+  <node id='633008175' lat='63.4311301' lon='10.3945493' user='tmn' timestamp='2010-02-07T23:12:14Z' uid='147210' version='1' changeset='3819970'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='MR'/>
+    <tag k='route_ref' v='nettbuss;'/>
+  </node>
+  <node id='242099936' lat='63.434143' lon='10.4137481' user='skela' timestamp='2010-08-31T16:34:56Z' uid='93285' version='3' changeset='5646894'>
+    <tag k='addr:city' v='Trondheim'/>
+    <tag k='addr:country' v='NO'/>
+    <tag k='addr:street' v='Innherredsveien'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Dokkparken'/>
+    <tag k='shelter' v='yes'/>
+    <tag k='source' v='survey'/>
+  </node>
+  <node id='248695532' lat='63.4323243' lon='10.4069685' user='Helge Hafting' timestamp='2008-02-21T18:34:55Z' uid='19565' version='1' changeset='174218'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bakkegata'/>
+  </node>
+  <node id='566173987' lat='63.4323814' lon='10.4075736' user='tmn' timestamp='2009-11-17T12:59:01Z' uid='147210' version='1' changeset='3140771'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='633019679' lat='63.4340287' lon='10.4131237' user='skela' timestamp='2010-08-31T21:16:19Z' uid='93285' version='2' changeset='5649592'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Dokkparken /  Solsiden'/>
+  </node>
+  <node id='633017844' lat='63.4260517' lon='10.3933611' user='tmn' timestamp='2010-02-07T23:22:16Z' uid='147210' version='1' changeset='3820019'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Prinsen Kinosenter'/>
+    <tag k='route_ref' v='5;52;'/>
+  </node>
+  <node id='633017847' lat='63.4264548' lon='10.3934791' user='tmn' timestamp='2010-02-07T23:22:16Z' uid='147210' version='1' changeset='3820019'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Prinsen Kinosenter'/>
+    <tag k='route_ref' v='5;52;'/>
+  </node>
+  <node id='243788500' lat='63.4200767' lon='10.3771068' user='BjørnN' timestamp='2008-08-23T19:58:10Z' uid='52224' version='3' changeset='382324'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Marienborg'/>
+  </node>
+  <node id='759530195' lat='63.4192161' lon='10.3775768' user='Lasse Karstensen' timestamp='2010-05-31T21:41:59Z' uid='139181' version='2' changeset='4868843'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='941370328' lat='63.4199217' lon='10.3772513' user='Blippblopp' timestamp='2010-10-08T11:05:32Z' uid='356288' version='2' changeset='5985041'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Marienborg'/>
+  </node>
+  <node id='244968140' lat='63.4180929' lon='10.3726133' user='ok67' timestamp='2008-03-28T21:06:04Z' uid='2853' version='2' changeset='412466'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Tvetestien'/>
+  </node>
+  <node id='760735600' lat='63.4169456' lon='10.3792795' user='Lasse Karstensen' timestamp='2010-05-31T21:41:55Z' uid='139181' version='1' changeset='4868843'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='760735608' lat='63.4170246' lon='10.3793135' user='Lasse Karstensen' timestamp='2010-05-31T21:41:56Z' uid='139181' version='1' changeset='4868843'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='250665898' lat='63.4228165' lon='10.3951982' user='Bernt' timestamp='2010-12-12T10:35:46Z' uid='11797' version='4' changeset='6634187'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Studentersamfundet'/>
+    <tag k='route_ref' v='5;52;'/>
+  </node>
+  <node id='530892011' lat='63.4226188' lon='10.3947313' user='Bernt' timestamp='2010-12-12T10:35:49Z' uid='11797' version='3' changeset='6634187'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Studentersamfundet'/>
+    <tag k='route_ref' v='nettbuss;tt;'/>
+  </node>
+  <node id='530892022' lat='63.4223263' lon='10.3944542' user='tmn' timestamp='2010-02-07T23:00:45Z' uid='147210' version='2' changeset='3819890'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Studentersamfundet'/>
+    <tag k='route_ref' v='nettbuss;tt;'/>
+  </node>
+  <node id='530898840' lat='63.4225941' lon='10.3947359' user='Bernt' timestamp='2010-12-12T10:35:41Z' uid='11797' version='2' changeset='6634187'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Airport Express Coach'/>
+    <tag k='webpage' v='http://www.flybussen.no/'/>
+  </node>
+  <node id='632988793' lat='63.4218448' lon='10.4004713' user='tmn' timestamp='2010-02-07T22:58:40Z' uid='147210' version='1' changeset='3819890'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Vollabakken'/>
+    <tag k='route_ref' v='5;52;'/>
+  </node>
+  <node id='632988796' lat='63.4217344' lon='10.4003801' user='tmn' timestamp='2010-02-07T22:58:40Z' uid='147210' version='1' changeset='3819890'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Vollabakken'/>
+    <tag k='route_ref' v='5;52;'/>
+  </node>
+  <node id='632993060' lat='63.4226756' lon='10.3950668' user='Bernt' timestamp='2010-12-12T10:35:44Z' uid='11797' version='2' changeset='6634187'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Studentersamfundet'/>
+    <tag k='route_ref' v='5;52;'/>
+  </node>
+  <node id='250665895' lat='63.4202911' lon='10.4049705' user='Rune Andersen' timestamp='2010-12-15T14:31:09Z' uid='21866' version='4' changeset='6668203'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Høgskoleringen'/>
+  </node>
+  <node id='445409897' lat='63.420873' lon='10.4041562' user='tmn' timestamp='2010-02-07T22:58:40Z' uid='147210' version='3' changeset='3819890'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Høgskoleringen'/>
+    <tag k='route_ref' v='5;52;'/>
+  </node>
+  <node id='530901496' lat='63.4202799' lon='10.4051116' user='tmn' timestamp='2010-02-07T22:58:40Z' uid='147210' version='2' changeset='3819890'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Høgskoleringen'/>
+    <tag k='route_ref' v='5;52;'/>
+  </node>
+  <node id='835665465' lat='63.4227514' lon='10.4132853' user='tmn' timestamp='2010-07-27T18:16:37Z' uid='147210' version='1' changeset='5331987'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Jonsvannsveien'/>
+    <tag k='route_ref' v='63'/>
+  </node>
+  <node id='835665515' lat='63.4204616' lon='10.4080818' user='tmn' timestamp='2010-07-27T18:16:38Z' uid='147210' version='1' changeset='5331987'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gudes gt.'/>
+    <tag k='route_ref' v='63'/>
+  </node>
+  <node id='10136265' lat='63.4153761' lon='10.3981400' user='BjørnN' xapi:users='BjørnN' timestamp='2008-08-23T18:20:55Z' uid='52224' version='3' changeset='376810'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Professor Brochs gate'/>
+  </node>
+  <node id='259777206' lat='63.4143422' lon='10.3982808' user='Espenso' timestamp='2009-10-30T12:27:49Z' uid='176415' version='4' changeset='2988643'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Professor Brochs gate'/>
+  </node>
+  <node id='531432954' lat='63.4153548' lon='10.3982577' user='Espenso' timestamp='2009-10-15T10:35:21Z' uid='176415' version='1' changeset='2852618'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Professor Brochs gate'/>
+  </node>
+  <node id='531436076' lat='63.4143379' lon='10.3981971' user='tmn' timestamp='2010-02-07T22:55:10Z' uid='147210' version='4' changeset='3819876'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Professor Brochs gate'/>
+    <tag k='route_ref' v='nettbuss;tt'/>
+  </node>
+  <node id='654094434' lat='63.418477' lon='10.3964962' user='tmn' timestamp='2010-02-26T13:18:44Z' uid='147210' version='1' changeset='3980161'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Einar Tambarskjelves gt.'/>
+    <tag k='route_ref' v='Nettbuss;'/>
+  </node>
+  <node id='250665894' lat='63.41634' lon='10.4088767' user='tmn' timestamp='2010-02-07T22:55:11Z' uid='147210' version='5' changeset='3819876'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gløshaugen syd'/>
+    <tag k='route_ref' v='5;52'/>
+  </node>
+  <node id='307875607' lat='63.4136275' lon='10.4144262' user='tmn' timestamp='2010-03-09T18:39:58Z' uid='147210' version='3' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Berg studentby'/>
+  </node>
+  <node id='419000818' lat='63.4182758' lon='10.4059842' user='tmn' timestamp='2010-02-07T22:55:11Z' uid='147210' version='5' changeset='3819876'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gløshaugen nord'/>
+    <tag k='route_ref' v='5;52'/>
+  </node>
+  <node id='419000819' lat='63.4183057' lon='10.4061456' user='Rune Andersen' timestamp='2010-12-15T13:41:44Z' uid='21866' version='9' changeset='6667752'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gløshaugen nord'/>
+    <tag k='route_ref' v='5;52'/>
+  </node>
+  <node id='419000820' lat='63.4166402' lon='10.4074782' user='Rune Andersen' timestamp='2010-12-15T11:51:09Z' uid='21866' version='7' changeset='6666914'>
+    <tag k='amenity' v='bench'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gløshaugen syd'/>
+    <tag k='route_ref' v='5;52'/>
+  </node>
+  <node id='534205137' lat='63.4144810' lon='10.4116651' user='jeremy' timestamp='2009-10-17T12:59:05Z' uid='187316' version='1' changeset='2873149'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Prestegårdsjordet'/>
+  </node>
+  <node id='835665481' lat='63.4297395' lon='10.4173193' user='tmn' timestamp='2010-07-27T18:16:37Z' uid='147210' version='1' changeset='5331987'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Rosenborg skole'/>
+    <tag k='route_ref' v='63'/>
+  </node>
+  <node id='835665486' lat='63.4313903' lon='10.4216312' user='tmn' timestamp='2010-07-27T18:16:37Z' uid='147210' version='1' changeset='5331987'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Sig.Berg alle'/>
+    <tag k='route_ref' v='63'/>
+  </node>
+  <node id='835665469' lat='63.4247914' lon='10.4169331' user='tmn' timestamp='2010-07-27T18:16:37Z' uid='147210' version='1' changeset='5331987'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ankers gt.'/>
+    <tag k='route_ref' v='63'/>
+  </node>
+  <node id='835665475' lat='63.4278919' lon='10.416225' user='tmn' timestamp='2010-07-27T18:16:37Z' uid='147210' version='1' changeset='5331987'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Festningsgt.'/>
+    <tag k='route_ref' v='63'/>
+  </node>
+  <node id='105404' lat='63.4290359' lon='10.4359658' user='steinarh' xapi:users='steinarh' timestamp='2008-07-03T01:29:52Z' uid='17110' version='3' changeset='375551'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gina Krogs veg'/>
+  </node>
+  <node id='34184939' lat='63.4276024' lon='10.4323534' user='Rune Andersen' xapi:users='Rune Andersen' timestamp='2009-06-25T23:51:11Z' uid='21866' version='3' changeset='1627021'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Tyholt'/>
+  </node>
+  <node id='255113231' lat='63.4330077' lon='10.4469125' user='Helge Hafting' timestamp='2008-03-31T18:35:52Z' uid='19565' version='1' changeset='433502'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Persauneveien'/>
+  </node>
+  <node id='246234306' lat='63.4302069' lon='10.4527927' user='Helge Hafting' timestamp='2008-02-06T21:16:42Z' uid='19565' version='1' changeset='58659'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bromstadveien'/>
+  </node>
+  <node id='246245653' lat='63.4326296' lon='10.4555811' user='Helge Hafting' timestamp='2008-03-27T08:37:40Z' uid='19565' version='3' changeset='405707'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Strindheim skole'/>
+  </node>
+  <node id='248512381' lat='63.4332417' lon='10.4563298' user='Helge Hafting' timestamp='2009-03-20T09:23:05Z' uid='19565' version='2' changeset='836377'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Strindheim skole'/>
+  </node>
+  <node id='668388734' lat='63.4303107' lon='10.450469' user='Lykve' timestamp='2010-03-17T23:34:56Z' uid='248435' version='1' changeset='4158032'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Kong Øysteins Veg'/>
+  </node>
+  <node id='1012727188' lat='63.4303671' lon='10.4525185' user='jankj72' timestamp='2010-11-29T20:02:10Z' uid='369570' version='1' changeset='6489335'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bromstadveien'/>
+  </node>
+  <node id='1012727238' lat='63.4301464' lon='10.4524193' user='jankj72' timestamp='2010-11-29T20:08:17Z' uid='369570' version='2' changeset='6489335'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bromstadvegen'/>
+  </node>
+  <node id='1012731079' lat='63.4297457' lon='10.4545758' user='jankj72' timestamp='2010-11-29T20:08:19Z' uid='369570' version='1' changeset='6489335'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Strindheim Hageby'/>
+  </node>
+  <node id='242100010' lat='63.4251252' lon='10.4573531' user='Helge Hafting' timestamp='2008-01-22T18:57:41Z' uid='19565' version='1' changeset='681662'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Solvollveien'/>
+  </node>
+  <node id='248695540' lat='63.4255628' lon='10.4586281' user='Helge Hafting' timestamp='2008-02-21T18:34:56Z' uid='19565' version='1' changeset='174218'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bromstadsvingen'/>
+  </node>
+  <node id='1012731082' lat='63.4292761' lon='10.4541595' user='Exargon' timestamp='2010-12-05T00:41:24Z' uid='378831' version='2' changeset='6545956'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Strindheim Hageby'/>
+  </node>
+  <node id='246707946' lat='63.4227631' lon='10.42453' user='Bernt' timestamp='2010-12-10T20:12:10Z' uid='11797' version='2' changeset='6609293'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Kvilhaugen'/>
+  </node>
+  <node id='246707945' lat='63.4222270' lon='10.4288279' user='Helge Hafting' timestamp='2009-04-06T20:45:40Z' uid='19565' version='2' changeset='262874'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Otto Nielsens veg'/>
+  </node>
+  <node id='309129484' lat='63.4139636' lon='10.4199515' user='gormur' timestamp='2010-08-06T19:52:21Z' uid='103253' version='3' changeset='5419926'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bugges vei'/>
+  </node>
+  <node id='663363780' lat='63.4134354' lon='10.4170225' user='tmn' timestamp='2010-03-09T18:39:59Z' uid='147210' version='1' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Berg studentby'/>
+  </node>
+  <node id='246707948' lat='63.4184536' lon='10.4303906' user='Rune Andersen' timestamp='2009-06-25T23:51:15Z' uid='21866' version='2' changeset='1627021'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Valentinlyst'/>
+  </node>
+  <node id='309129485' lat='63.4159034' lon='10.4305087' user='tmn' timestamp='2010-03-09T18:39:58Z' uid='147210' version='3' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Østre Berg'/>
+  </node>
+  <node id='309129486' lat='63.4160666' lon='10.430337' user='tmn' timestamp='2010-03-09T18:39:58Z' uid='147210' version='3' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Østre Berg'/>
+  </node>
+  <node id='663363777' lat='63.414074' lon='10.4324828' user='tmn' timestamp='2010-03-09T18:39:58Z' uid='147210' version='1' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Moholt studentby'/>
+  </node>
+  <node id='546038295' lat='63.4217104' lon='10.4390798' user='Espenso' timestamp='2009-10-30T10:39:57Z' uid='176415' version='1' changeset='2988051'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Magnus Berrføttsvei'/>
+  </node>
+  <node id='1029896650' lat='63.4208828' lon='10.4378477' user='Bernt' timestamp='2010-12-09T19:43:16Z' uid='11797' version='1' changeset='6598575'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Magnus Berrføttsvei'/>
+  </node>
+  <node id='242100000' lat='63.4219229' lon='10.4502686' user='Helge Hafting' timestamp='2008-01-22T18:57:41Z' uid='19565' version='1' changeset='681662'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brøset hageby'/>
+  </node>
+  <node id='242100003' lat='63.4236368' lon='10.4551151' user='Helge Hafting' timestamp='2008-01-22T18:57:41Z' uid='19565' version='1' changeset='681662'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brøsetflata'/>
+  </node>
+  <node id='243482057' lat='63.4182294' lon='10.4478876' user='Helge Hafting' timestamp='2008-01-26T14:01:09Z' uid='19565' version='1' changeset='695699'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Teglverkskrysset'/>
+  </node>
+  <node id='224051524' lat='63.4174590' lon='10.4584094' user='Helge Hafting' timestamp='2008-03-04T19:20:33Z' uid='19565' version='2' changeset='267052'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Granåsvegen'/>
+  </node>
+  <node id='243482053' lat='63.4182167' lon='10.4482879' user='Helge Hafting' timestamp='2008-02-03T14:13:30Z' uid='19565' version='2' changeset='23697'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Teglverkskrysset'/>
+  </node>
+  <node id='334258796' lat='63.4367017' lon='10.4799796' user='Helge Hafting' timestamp='2009-01-20T17:35:56Z' uid='19565' version='1' changeset='817703'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Statoil'/>
+  </node>
+  <node id='334264784' lat='63.4364756' lon='10.4742846' user='Helge Hafting' timestamp='2009-01-26T23:59:55Z' uid='19565' version='2' changeset='842546'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Leangen gård'/>
+  </node>
+  <node id='338084197' lat='63.4364996' lon='10.4735740' user='Helge Hafting' timestamp='2009-01-26T23:59:50Z' uid='19565' version='1' changeset='842546'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Leangen gård'/>
+  </node>
+  <node id='335975229' lat='63.4383347' lon='10.4837056' user='Helge Hafting' timestamp='2009-01-24T17:10:21Z' uid='19565' version='1' changeset='831240'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Rotvoll N'/>
+  </node>
+  <node id='335975235' lat='63.4383271' lon='10.4833756' user='Helge Hafting' timestamp='2009-01-24T17:10:21Z' uid='19565' version='1' changeset='831240'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Rotvoll N'/>
+  </node>
+  <node id='255049213' lat='63.4335815' lon='10.4630110' user='Helge Hafting' timestamp='2008-03-31T10:13:37Z' uid='19565' version='1' changeset='433060'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gildheim'/>
+  </node>
+  <node id='255049214' lat='63.4340569' lon='10.4621093' user='Helge Hafting' timestamp='2008-03-31T10:39:53Z' uid='19565' version='2' changeset='433060'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gildheim'/>
+  </node>
+  <node id='361594122' lat='63.4338769' lon='10.4649743' user='Helge Hafting' timestamp='2009-03-17T22:39:12Z' uid='19565' version='1' changeset='823712'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='338084086' lat='63.4319038' lon='10.4758474' user='Helge Hafting' timestamp='2009-01-26T23:59:44Z' uid='19565' version='1' changeset='842546'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Travbanen'/>
+  </node>
+  <node id='886818862' lat='63.4322321' lon='10.4727941' user='skela' timestamp='2010-08-29T20:52:45Z' uid='93285' version='1' changeset='5630855'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Travbanen'/>
+    <tag k='shelter' v='yes'/>
+    <tag k='source' v='survey'/>
+  </node>
+  <node id='242100013' lat='63.4251297' lon='10.4644745' user='Helge Hafting' timestamp='2009-02-01T16:49:20Z' uid='19565' version='3' changeset='30195'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gartnerhallen'/>
+  </node>
+  <node id='242100045' lat='63.4253418' lon='10.4646016' user='Helge Hafting' timestamp='2008-11-13T13:42:57Z' uid='19565' version='2' changeset='743574'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gartnerhallen'/>
+  </node>
+  <node id='245952552' lat='63.4274580' lon='10.4592788' user='Helge Hafting' timestamp='2008-06-27T15:52:12Z' uid='19565' version='3' changeset='315260'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bromstadsvingen'/>
+  </node>
+  <node id='248455873' lat='63.4271063' lon='10.4677035' user='Helge Hafting' timestamp='2008-02-19T18:02:19Z' uid='19565' version='1' changeset='155587'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ishallen'/>
+  </node>
+  <node id='248455874' lat='63.4272005' lon='10.4675319' user='Helge Hafting' timestamp='2008-02-19T18:02:19Z' uid='19565' version='1' changeset='155587'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ishallen'/>
+  </node>
+  <node id='245952555' lat='63.4278817' lon='10.4722337' user='Helge Hafting' timestamp='2010-01-14T22:04:10Z' uid='19565' version='3' changeset='3620573'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ikea'/>
+  </node>
+  <node id='335981130' lat='63.4350437' lon='10.4843182' user='Helge Hafting' timestamp='2009-01-24T17:23:25Z' uid='19565' version='1' changeset='831240'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Rotvoll'/>
+  </node>
+  <node id='335981139' lat='63.4349223' lon='10.4834778' user='Helge Hafting' timestamp='2009-01-24T17:23:25Z' uid='19565' version='1' changeset='831240'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Rotvoll'/>
+  </node>
+  <node id='357489772' lat='63.4335757' lon='10.5001655' user='Helge Hafting' timestamp='2009-03-08T20:34:35Z' uid='19565' version='1' changeset='760520'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Grilstadkleiva'/>
+  </node>
+  <node id='357489795' lat='63.4339394' lon='10.5002879' user='Helge Hafting' timestamp='2009-03-08T20:34:37Z' uid='19565' version='1' changeset='760520'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Grilstadkleiva'/>
+  </node>
+  <node id='249447645' lat='63.4292400' lon='10.4870465' user='Helge Hafting' timestamp='2008-02-27T10:54:42Z' uid='19565' version='1' changeset='217866'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Churchills veg'/>
+  </node>
+  <node id='249447646' lat='63.4294256' lon='10.4876238' user='Helge Hafting' timestamp='2008-02-27T10:54:42Z' uid='19565' version='1' changeset='217866'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Churchills veg'/>
+  </node>
+  <node id='311043870' lat='63.4249156' lon='10.4844608' user='Helge Hafting' timestamp='2008-11-10T12:26:36Z' uid='19565' version='1' changeset='728777'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Tunvegen'/>
+  </node>
+  <node id='249447647' lat='63.4284099' lon='10.4943959' user='Helge Hafting' timestamp='2008-02-27T10:54:42Z' uid='19565' version='1' changeset='217866'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Jakobsliveien nedre'/>
+  </node>
+  <node id='249447648' lat='63.4284482' lon='10.4944907' user='Helge Hafting' timestamp='2008-02-27T10:54:42Z' uid='19565' version='1' changeset='217866'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Jakobsliveien nedre'/>
+  </node>
+  <node id='249447649' lat='63.4292452' lon='10.4949904' user='Helge Hafting' timestamp='2008-12-07T16:20:48Z' uid='19565' version='2' changeset='238392'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Skovgård'/>
+  </node>
+  <node id='250742856' lat='63.4287785' lon='10.4957516' user='Helge Hafting' timestamp='2008-12-07T16:22:47Z' uid='19565' version='2' changeset='238392'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Skovgård'/>
+  </node>
+  <node id='249377525' lat='63.4236207' lon='10.4677467' user='Helge Hafting' timestamp='2009-02-01T16:49:21Z' uid='19565' version='3' changeset='30195'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Iskremfabrikken'/>
+  </node>
+  <node id='249377527' lat='63.4239834' lon='10.4675389' user='Helge Hafting' timestamp='2008-02-26T11:38:14Z' uid='19565' version='1' changeset='212207'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Iskremfabrikken'/>
+  </node>
+  <node id='245952560' lat='63.4213352' lon='10.4711257' user='Helge Hafting' timestamp='2008-02-05T18:56:41Z' uid='19565' version='1' changeset='49866'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Fengslet Tunga'/>
+  </node>
+  <node id='248697557' lat='63.4217725' lon='10.4718663' user='Helge Hafting' timestamp='2008-03-30T12:27:49Z' uid='19565' version='3' changeset='425594'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Fengslet Tunga'/>
+  </node>
+  <node id='224647635' lat='63.4183912' lon='10.4594588' user='Helge Hafting' timestamp='2008-01-21T23:11:39Z' uid='19565' version='3' changeset='679794'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Granåsvegen'/>
+  </node>
+  <node id='251285638' lat='63.4160152' lon='10.4651434' user='Helge Hafting' timestamp='2008-03-09T08:47:22Z' uid='19565' version='1' changeset='296053'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Sildråpevegen'/>
+  </node>
+  <node id='311174827' lat='63.417431' lon='10.4617006' user='Helge Hafting' timestamp='2010-11-06T20:15:31Z' uid='19565' version='2' changeset='6305867'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Angelltrøa'/>
+  </node>
+  <node id='334252117' lat='63.4149579' lon='10.4696307' user='Helge Hafting' timestamp='2009-01-20T17:24:26Z' uid='19565' version='1' changeset='817703'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Granåsen gård'/>
+  </node>
+  <node id='267163002' lat='63.4141129' lon='10.4717373' user='a_b' timestamp='2008-05-27T21:28:37Z' uid='28672' version='1' changeset='535192'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Granåsen gård'/>
+  </node>
+  <node id='249447581' lat='63.4195257' lon='10.4847856' user='Helge Hafting' timestamp='2008-03-03T22:36:18Z' uid='19565' version='2' changeset='261643'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brundalen skole'/>
+  </node>
+  <node id='340907861' lat='63.4208898' lon='10.4952125' user='Helge Hafting' timestamp='2009-02-05T09:40:06Z' uid='19565' version='1' changeset='158342'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Charlottenlund kirke'/>
+  </node>
+  <node id='340907863' lat='63.4216626' lon='10.4948723' user='Helge Hafting' timestamp='2009-02-05T09:40:06Z' uid='19565' version='1' changeset='158342'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Charlottenlund Kirke'/>
+  </node>
+  <node id='249447628' lat='63.4178871' lon='10.4855875' user='Helge Hafting' timestamp='2008-02-27T10:54:39Z' uid='19565' version='1' changeset='217866'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brundalen'/>
+  </node>
+  <node id='340323277' lat='63.4183663' lon='10.4949292' user='Helge Hafting' timestamp='2009-02-04T00:23:21Z' uid='19565' version='1' changeset='131796'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='247455666' lat='63.4259055' lon='10.5081509' user='Helge Hafting' timestamp='2008-02-13T18:44:03Z' uid='19565' version='1' changeset='113368'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Askeladdvegen'/>
+  </node>
+  <node id='250742884' lat='63.4261187' lon='10.5079751' user='Helge Hafting' timestamp='2008-03-05T19:14:03Z' uid='19565' version='1' changeset='272099'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Askeladdvegen'/>
+  </node>
+  <node id='164364883' lat='63.4280905' lon='10.5214721' user='Helge Hafting' timestamp='2007-12-12T13:59:58Z' uid='19565' version='1' changeset='272041'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ranheim idrettsplass'/>
+  </node>
+  <node id='250742882' lat='63.4247729' lon='10.5158477' user='Helge Hafting' timestamp='2010-05-13T19:49:41Z' uid='19565' version='2' changeset='4690066'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='269020876' lat='63.4241660' lon='10.5189648' user='bjornmu' timestamp='2008-06-07T19:28:25Z' uid='13191' version='1' changeset='86924'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='250742857' lat='63.4278604' lon='10.5327314' user='Helge Hafting' timestamp='2008-03-14T08:11:01Z' uid='19565' version='2' changeset='323109'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ranheim stasjon'/>
+  </node>
+  <node id='250742879' lat='63.4289707' lon='10.5367582' user='Helge Hafting' timestamp='2008-03-05T19:14:02Z' uid='19565' version='1' changeset='272099'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ranheim kirke'/>
+  </node>
+  <node id='250742881' lat='63.4287913' lon='10.5361392' user='Helge Hafting' timestamp='2008-03-05T21:00:34Z' uid='19565' version='2' changeset='272099'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ranheim kirke'/>
+  </node>
+  <node id='247455667' lat='63.4224283' lon='10.5250413' user='Helge Hafting' timestamp='2010-05-13T19:49:42Z' uid='19565' version='3' changeset='4690066'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='765294319' lat='63.421556' lon='10.5351417' user='cedlind' timestamp='2010-06-05T19:42:40Z' uid='299335' version='1' changeset='4911661'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ranheim Fabrikker'/>
+  </node>
+  <node id='765294340' lat='63.4218536' lon='10.5350344' user='cedlind' timestamp='2010-06-05T19:42:58Z' uid='299335' version='1' changeset='4911661'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ranheim Fabrikker E6'/>
+  </node>
+  <node id='247455693' lat='63.4172279' lon='10.5337677' user='Helge Hafting' timestamp='2008-02-13T23:32:38Z' uid='19565' version='2' changeset='117394'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Nedre Vikåsen'/>
+  </node>
+  <node id='247455701' lat='63.4157175' lon='10.5308128' user='Helge Hafting' timestamp='2008-02-13T18:44:08Z' uid='19565' version='1' changeset='113368'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Vikåsen'/>
+  </node>
+  <node id='247455710' lat='63.4139148' lon='10.5296365' user='Helge Hafting' timestamp='2008-02-13T21:45:41Z' uid='19565' version='2' changeset='113860'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Markaplassen skole'/>
+  </node>
+  <node id='247455711' lat='63.4137996' lon='10.5296479' user='Helge Hafting' timestamp='2008-02-13T21:45:42Z' uid='19565' version='2' changeset='113860'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Markaplassen skole'/>
+  </node>
+  <node id='247455751' lat='63.4146652' lon='10.5306176' user='Helge Hafting' timestamp='2008-02-13T18:44:14Z' uid='19565' version='1' changeset='113368'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='247455764' lat='63.4171050' lon='10.5337844' user='Helge Hafting' timestamp='2008-02-13T23:32:39Z' uid='19565' version='2' changeset='117394'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Nedre Vikåsen'/>
+  </node>
+  <node id='247455769' lat='63.4156680' lon='10.5357569' user='Helge Hafting' timestamp='2008-02-13T18:44:17Z' uid='19565' version='1' changeset='113368'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Markaplassen øst'/>
+  </node>
+  <node id='243639302' lat='63.4124167' lon='10.3766913' user='steinarh' timestamp='2008-01-28T00:26:02Z' uid='17110' version='4' changeset='703146'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Breidablikk'/>
+    <tag k='source' v='survey'/>
+  </node>
+  <node id='105878' lat='63.4107221' lon='10.3829179' user='Helge Hafting' xapi:users='Helge Hafting' timestamp='2009-01-25T17:54:02Z' uid='19565' version='5' changeset='835737'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bøckmans Veg'/>
+  </node>
+  <node id='60116789' lat='63.4099047' lon='10.3835173' user='Helge Hafting' xapi:users='Helge Hafting' timestamp='2008-02-07T17:33:50Z' uid='19565' version='3' changeset='65736'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Stavne bro'/>
+  </node>
+  <node id='243788499' lat='63.41283' lon='10.3823117' user='Lasse Karstensen' timestamp='2010-05-31T21:42:02Z' uid='139181' version='4' changeset='4868843'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Thaulowbakken'/>
+  </node>
+  <node id='759468477' lat='63.410292' lon='10.3826285' user='Lasse Karstensen' timestamp='2010-05-30T13:47:15Z' uid='139181' version='1' changeset='4852162'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Bøckmans Veg'/>
+  </node>
+  <node id='246519001' lat='63.4046115' lon='10.3870122' user='Helge Hafting' timestamp='2008-02-07T17:33:19Z' uid='19565' version='1' changeset='65736'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Nydalen'/>
+  </node>
+  <node id='413401647' lat='63.4076523' lon='10.4038636' user='einarr' timestamp='2009-05-31T10:48:25Z' uid='11837' version='1' changeset='1366910'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Sorgenfri'/>
+  </node>
+  <node id='413401650' lat='63.4081267' lon='10.4038098' user='einarr' timestamp='2009-05-31T10:48:26Z' uid='11837' version='1' changeset='1366910'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Sorgenfri'/>
+  </node>
+  <node id='413401653' lat='63.4093736' lon='10.4029074' user='einarr' timestamp='2009-05-31T10:48:26Z' uid='11837' version='1' changeset='1366910'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Valgrindvegen'/>
+  </node>
+  <node id='413401655' lat='63.4103501' lon='10.4025555' user='einarr' timestamp='2009-05-31T10:48:26Z' uid='11837' version='1' changeset='1366910'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Valgrindvegen'/>
+  </node>
+  <node id='531437620' lat='63.4090201' lon='10.3991332' user='Espenso' timestamp='2009-10-15T10:38:19Z' uid='176415' version='1' changeset='2852909'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Valøyveien'/>
+  </node>
+  <node id='531438039' lat='63.4083785' lon='10.3981719' user='Espenso' timestamp='2009-10-15T10:38:39Z' uid='176415' version='1' changeset='2852909'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Valøyveien'/>
+  </node>
+  <node id='532054128' lat='63.4080042' lon='10.3968412' user='Espenso' timestamp='2009-10-15T17:56:25Z' uid='176415' version='1' changeset='2856636'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Tempeveien 11'/>
+  </node>
+  <node id='532083178' lat='63.4122340' lon='10.3996307' user='Espenso' timestamp='2009-10-15T18:07:18Z' uid='176415' version='1' changeset='2856912'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Tempe Kirke'/>
+  </node>
+  <node id='654094431' lat='63.4126818' lon='10.4000207' user='tmn' timestamp='2010-02-26T13:18:44Z' uid='147210' version='1' changeset='3980161'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Lerkendal Stadion'/>
+  </node>
+  <node id='654094432' lat='63.4125185' lon='10.400144' user='tmn' timestamp='2010-02-26T13:18:44Z' uid='147210' version='1' changeset='3980161'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Lerkendal Stadion'/>
+  </node>
+  <node id='60116810' lat='63.4129466' lon='10.4070334' user='Rune Andersen' xapi:users='Rune Andersen' timestamp='2009-08-03T10:47:35Z' uid='21866' version='4' changeset='2023449'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Lerkendal'/>
+  </node>
+  <node id='156555191' lat='63.4130378' lon='10.4141965' user='Helge Hafting' timestamp='2008-03-04T18:55:21Z' uid='19565' version='3' changeset='267052'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Dybdahls vei'/>
+  </node>
+  <node id='250585559' lat='63.4129070' lon='10.4140152' user='Helge Hafting' timestamp='2008-03-04T18:49:39Z' uid='19565' version='1' changeset='267052'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Dybdahls vei'/>
+  </node>
+  <node id='791044979' lat='63.403471' lon='10.3956265' user='Helge Hafting' timestamp='2010-06-26T11:32:46Z' uid='19565' version='1' changeset='5080294'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='413401642' lat='63.4034951' lon='10.4061521' user='einarr' timestamp='2009-05-31T10:48:25Z' uid='11837' version='1' changeset='1366910'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Anton Grevskotts veg'/>
+  </node>
+  <node id='413401645' lat='63.4038405' lon='10.4053906' user='einarr' timestamp='2009-05-31T10:48:25Z' uid='11837' version='1' changeset='1366910'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Anton Grevskotts veg'/>
+  </node>
+  <node id='146941474' lat='63.4091897' lon='10.4200176' user='berland' timestamp='2010-09-13T20:33:35Z' uid='346410' version='3' changeset='5773357'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Fiolsvingen'/>
+  </node>
+  <node id='146941535' lat='63.4091622' lon='10.4205554' user='Helge Hafting' timestamp='2007-12-07T00:10:24Z' uid='19565' version='2' changeset='155657'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='911167321' lat='63.4091674' lon='10.4204917' user='berland' timestamp='2010-09-13T20:33:35Z' uid='346410' version='1' changeset='5773357'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Fiolsvingen'/>
+  </node>
+  <node id='663363772' lat='63.4099516' lon='10.4368534' user='tmn' timestamp='2010-03-09T18:39:57Z' uid='147210' version='1' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Moholt'/>
+  </node>
+  <node id='663363778' lat='63.4128016' lon='10.4328462' user='tmn' timestamp='2010-03-09T18:39:58Z' uid='147210' version='1' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Moholt studentby'/>
+  </node>
+  <node id='663363779' lat='63.4113082' lon='10.4349021' user='tmn' timestamp='2010-03-09T18:39:58Z' uid='147210' version='1' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Moholt'/>
+  </node>
+  <node id='267374568' lat='63.4075436' lon='10.4234848' user='Helge Hafting' timestamp='2008-05-29T16:59:37Z' uid='19565' version='1' changeset='547316'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Omkjøringsvegen Nardo'/>
+  </node>
+  <node id='713893991' lat='63.4072694' lon='10.4207575' user='snorrelo' timestamp='2010-04-30T19:59:56Z' uid='279175' version='1' changeset='4569483'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='713894099' lat='63.4067555' lon='10.423944' user='snorrelo' timestamp='2010-04-30T20:00:03Z' uid='279175' version='1' changeset='4569483'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='713894100' lat='63.4057181' lon='10.4258323' user='snorrelo' timestamp='2010-04-30T20:00:03Z' uid='279175' version='1' changeset='4569483'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='713894101' lat='63.4071061' lon='10.4232681' user='snorrelo' timestamp='2010-04-30T20:00:03Z' uid='279175' version='1' changeset='4569483'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='713887843' lat='63.4036839' lon='10.4273343' user='snorrelo' timestamp='2010-04-30T19:55:29Z' uid='279175' version='1' changeset='4569436'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='713887845' lat='63.4032564' lon='10.426771' user='snorrelo' timestamp='2010-04-30T19:55:29Z' uid='279175' version='1' changeset='4569436'>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='168800473' lat='63.4107251' lon='10.4447861' user='Helge Hafting' timestamp='2008-03-04T19:20:32Z' uid='19565' version='2' changeset='267052'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='246707943' lat='63.4109615' lon='10.4476495' user='tibnor' timestamp='2009-03-15T19:39:48Z' uid='88857' version='2' changeset='813521'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Vold gård'/>
+  </node>
+  <node id='249447675' lat='63.4115443' lon='10.4455378' user='Helge Hafting' timestamp='2008-02-27T10:54:46Z' uid='19565' version='1' changeset='217866'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Omkjøringsvegen Moholt'/>
+  </node>
+  <node id='309144404' lat='63.4093249' lon='10.4438725' user='shekko' timestamp='2008-11-04T12:00:42Z' uid='41407' version='3' changeset='679985'>
+    <tag k='created_by' v='Potlatch 0.10f'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Voll studentby'/>
+  </node>
+  <node id='309144657' lat='63.4093863' lon='10.4443445' user='shekko' timestamp='2008-11-04T12:00:46Z' uid='41407' version='3' changeset='679985'>
+    <tag k='created_by' v='Potlatch 0.10f'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Voll studentby'/>
+  </node>
+  <node id='663363773' lat='63.4096875' lon='10.4383716' user='tmn' timestamp='2010-03-09T18:39:57Z' uid='147210' version='1' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Moholt'/>
+  </node>
+  <node id='663363774' lat='63.4100308' lon='10.4402652' user='tmn' timestamp='2010-03-09T18:39:57Z' uid='147210' version='1' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Brøsetveien'/>
+  </node>
+  <node id='246707942' lat='63.4076284' lon='10.4503305' user='Tim H' timestamp='2008-02-09T01:32:28Z' uid='25300' version='1' changeset='80767'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Heggdalen'/>
+  </node>
+  <node id='663363775' lat='63.4110825' lon='10.454552' user='tmn' timestamp='2010-03-09T18:39:57Z' uid='147210' version='1' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Åasvang skole'/>
+  </node>
+  <node id='663363776' lat='63.4110081' lon='10.4551984' user='tmn' timestamp='2010-03-09T18:39:57Z' uid='147210' version='1' changeset='4083251'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Åsvang skole'/>
+  </node>
+  <node id='267374556' lat='63.4067231' lon='10.4370597' user='Helge Hafting' timestamp='2008-05-29T16:59:35Z' uid='19565' version='1' changeset='547316'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+  </node>
+  <node id='246707941' lat='63.4065838' lon='10.4516200' user='Tim H' timestamp='2008-02-09T01:32:28Z' uid='25300' version='1' changeset='80767'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Gryta'/>
+  </node>
+  <node id='339247123' lat='63.4119229' lon='10.4632018' user='Helge Hafting' timestamp='2009-01-30T23:16:48Z' uid='19565' version='1' changeset='857839'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Høiseth'/>
+  </node>
+  <node id='339247124' lat='63.4119652' lon='10.4631201' user='Helge Hafting' timestamp='2009-01-30T23:16:48Z' uid='19565' version='1' changeset='857839'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Høiseth'/>
+  </node>
+  <node id='146105949' lat='63.4100887' lon='10.4794398' user='Helge Hafting' timestamp='2008-02-03T18:51:31Z' uid='19565' version='2' changeset='28244'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Stokkanhaugen'/>
+  </node>
+  <node id='245431469' lat='63.4122703' lon='10.4761699' user='Helge Hafting' timestamp='2009-01-30T23:23:39Z' uid='19565' version='2' changeset='857839'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ramstad'/>
+  </node>
+  <node id='289845622' lat='63.4077516' lon='10.4715248' user='Rune Andersen' timestamp='2010-12-14T10:26:20Z' uid='21866' version='4' changeset='6656597'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Dragvoll'/>
+  </node>
+  <node id='339247082' lat='63.4105721' lon='10.470284' user='Rune Andersen' timestamp='2010-12-14T11:58:03Z' uid='21866' version='3' changeset='6657494'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='NTNU Dragvoll'/>
+  </node>
+  <node id='339248885' lat='63.4121800' lon='10.4759975' user='Helge Hafting' timestamp='2009-01-30T23:23:37Z' uid='19565' version='1' changeset='857839'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Ramstad'/>
+  </node>
+  <node id='1038143454' lat='63.4104095' lon='10.4705597' user='Rune Andersen' timestamp='2010-12-14T11:58:03Z' uid='21866' version='2' changeset='6657494'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='NTNU Dragvoll'/>
+  </node>
+  <node id='277250139' lat='63.4055013' lon='10.4647703' user='Helge Hafting' timestamp='2009-01-31T15:46:07Z' uid='19565' version='2' changeset='859594'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Estenstadvegen'/>
+  </node>
+  <node id='339364362' lat='63.4056775' lon='10.4645981' user='Helge Hafting' timestamp='2009-01-31T15:46:00Z' uid='19565' version='1' changeset='859594'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Estenstadvegen'/>
+  </node>
+  <node id='245431506' lat='63.4100521' lon='10.4819820' user='Helge Hafting' timestamp='2008-02-03T18:51:04Z' uid='19565' version='1' changeset='28244'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Stokkanhaugen'/>
+  </node>
+  <node id='340321985' lat='63.4113684' lon='10.4915953' user='Helge Hafting' timestamp='2009-02-04T00:08:26Z' uid='19565' version='1' changeset='131796'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Jakobsli Øvre'/>
+  </node>
+  <node id='342192455' lat='63.4102828' lon='10.4914137' user='Helge Hafting' timestamp='2009-02-06T18:10:59Z' uid='19565' version='1' changeset='198625'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Jakobsli'/>
+  </node>
+  <node id='342192460' lat='63.4109172' lon='10.4873720' user='Helge Hafting' timestamp='2009-02-06T18:10:59Z' uid='19565' version='1' changeset='198625'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Jakobsli'/>
+  </node>
+  <node id='340321976' lat='63.4121861' lon='10.4924766' user='Helge Hafting' timestamp='2009-02-04T00:08:23Z' uid='19565' version='1' changeset='131796'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Jakobsli Øvre'/>
+  </node>
+  <node id='342192361' lat='63.407725' lon='10.5022462' user='Helge Hafting' timestamp='2010-05-13T18:51:00Z' uid='19565' version='2' changeset='4689477'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Karlsheim'/>
+  </node>
+  <node id='342192420' lat='63.4081147' lon='10.5013116' user='Helge Hafting' timestamp='2009-02-06T18:10:57Z' uid='19565' version='1' changeset='198625'>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Karlsheim'/>
+  </node>
+  <node id='247455791' lat='63.4075935' lon='10.5347663' user='Helge Hafting' timestamp='2008-02-14T08:39:17Z' uid='19565' version='2' changeset='118958'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Sagplassen'/>
+  </node>
+  <node id='247455682' lat='63.4128099' lon='10.5379069' user='Helge Hafting' timestamp='2008-02-13T21:45:39Z' uid='19565' version='2' changeset='113860'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Vikåsen skole'/>
+  </node>
+  <node id='247455772' lat='63.4126822' lon='10.5377700' user='Helge Hafting' timestamp='2008-02-13T21:45:42Z' uid='19565' version='2' changeset='113860'>
+    <tag k='created_by' v='JOSM'/>
+    <tag k='highway' v='bus_stop'/>
+    <tag k='name' v='Vikåsen skole'/>
+  </node>
+</osm>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">ByBuss</string>
+<string name="search_field">(holdeplass) til (holdeplass)</string>
+<string name="answer_field">For å søke skriver du inn \&quot;holdeplass til holdeplass\&quot;, eller ved full søkestreng som eks. \&quot;Når går bussen fra Sentrum til Ila for å være der til kl 2000\&quot;</string>
+<string name="tab_bussorakel">Bussorakelet</string>
+<string name="tab_history">Historie</string>
+
+<string name="tab_map">Kart</string>
+</resources>
