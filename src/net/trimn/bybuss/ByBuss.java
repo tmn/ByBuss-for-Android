@@ -217,7 +217,6 @@ public class ByBuss extends TabActivity {
 	
 	
 	private final class OnItemLongHold implements OnCreateContextMenuListener {
-		@Override
 		public void onCreateContextMenu(ContextMenu menu, View v, ContextMenuInfo menuInfo) {
 			menu.setHeaderTitle("Redigér");
 			menu.add(0, CONTEXTMENU_DELETEITEM, 0, "Slett");					
@@ -231,7 +230,6 @@ public class ByBuss extends TabActivity {
 			this.tabHost = tabHost;
 		}
 
-		@Override
 		public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
 			searchbar.setText(history_list.get(arg2));
 			
@@ -243,14 +241,12 @@ public class ByBuss extends TabActivity {
 	}
 	
 	private final class AskButtonClickListener implements OnClickListener {
-		@Override
 		public void onClick(View v) {
 			doSearch();
 		}
 	}
 
 	private final class OnChangeTab implements View.OnFocusChangeListener {
-		@Override
 		public void onFocusChange(View v, boolean hasFocus) {
 		    if (!hasFocus) {
 		    	imm.hideSoftInputFromWindow(searchbar.getWindowToken(), 0);
@@ -265,7 +261,6 @@ public class ByBuss extends TabActivity {
 	 *
 	 */
 	private final class SearchbarKeyListener implements OnKeyListener {
-		@Override
 		public boolean onKey(View v, int keyCode, KeyEvent event) {
 			if ((event.getAction() == KeyEvent.ACTION_DOWN) && (keyCode == KeyEvent.KEYCODE_ENTER)) {
 				doSearch();
@@ -280,7 +275,6 @@ public class ByBuss extends TabActivity {
 	 *
 	 */
 	private final class SearchbarClickListener implements OnClickListener {
-		@Override
 		public void onClick(View v) {
 			if (searchbar.getText().toString().equals(getString(R.string.search_field))) {
 				searchbar.setText("");
