@@ -24,7 +24,7 @@
 
 
 <uses-permission android:name="android.permission.INTERNET"></uses-permission>
-<uses-sdk android:maxSdkVersion="13" android:minSdkVersion="4" android:targetSdkVersion="13"></uses-sdk>
+<uses-sdk android:maxSdkVersion="15" android:minSdkVersion="4" android:targetSdkVersion="15"></uses-sdk>
 <!--<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>-->
 
 

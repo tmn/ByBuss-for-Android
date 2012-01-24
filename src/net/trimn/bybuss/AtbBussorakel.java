@@ -83,7 +83,7 @@ public class AtbBussorakel {
 		if (sc != null) {
 			sc.useDelimiter("\\Z");
 			content = sc.next();
-			answer = content;
+			answer = (content.replace(". Buss", ".\n\nBuss").replace(".  Tidene", ".\n\nTidene"));
 		} else {
 			answer = "Søk kunne ikke gjennomføres. Sjekk om du er tilkoblet nettet (mobilnett/WiFi)";
 		}
@@ -140,23 +140,7 @@ public class AtbBussorakel {
 	 * @return String
 	 */
 	public String getAnswer() {
-		String tmpAnswer = answer;
-		tmpAnswer = tmpAnswer.replace(" kl. ", " kl ");
-		tmpAnswer = tmpAnswer.replace("  ", " ");
-		String[] answerFormated = tmpAnswer.split("\\. ");
-
-		String finalAnswer = "";
-
-		for (String s : answerFormated) {
-
-			if (checkEnding(s)) {
-				finalAnswer += s.trim() + ".";
-			} else {
-				finalAnswer += s.trim() + ".\n\n";
-			}
-
-		}
-		return finalAnswer;
+		return this.answer;
 	}
 
 }
