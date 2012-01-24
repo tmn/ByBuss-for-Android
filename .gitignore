@@ -2,3 +2,7 @@
 .idea
 bin
 projectFilesBackup
+
+ByBuss-for-Android.iml
+out/production/ByBuss-for-Android/
+out/res-cache/
